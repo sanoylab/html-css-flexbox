@@ -156,6 +156,19 @@ h1 {
     font-size: 5rem;
   }
 
+  .parallex{
+      height: 70vh;
+      background: linear-gradient(transparent,#418FDE),
+      url("./images/nyc-footer.jpg");
+      background-position: center;
+      background-size: cover;
+      display:flex;
+      flex-direction: column;
+      justify-content: center;
+      text-align: center;
+     
+  }
+
   /* Footer Section */
 
 footer {
